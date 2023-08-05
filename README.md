@@ -2,8 +2,9 @@
 My name is Leonardo!
 
 
-- 🌱 I’m currently learning Web Development (Backend) using python and django
+- 🌱 I am currently focusing on data science. I spent a lot of time studying backend (python), but I realized that the data science field was more appealing.
 - 📫 How to reach me: 
   - Email: leonardojosephson24@gmail.com
+  - Linkedin: https://www.linkedin.com/in/leonardo-josephson/
 
 
