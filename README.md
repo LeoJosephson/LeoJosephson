@@ -1,10 +1,13 @@
-### Hi there 👋
+### Hi there 👋  
 My name is Leonardo!
 
+- 💻 I have experience in backend development using **Python** and **Flask**.
+- 📊 Currently, I work as a **Data Analyst and Data Scientist**, using **Python** to build data solutions, develop automations, perform analysis, and generate insights that support decision-making.
+- 🚀 My main focus is Data Science, applying programming and analytics to solve real-world problems.
 
-- 🌱 I am currently focusing on data science. After dedicating significant time to studying backend development with Python and Flask/Django, I discovered that my true interest lies in the field of data science.
-- 📫 How to reach me: 
-  - Email: leonardojosephson24@gmail.com
-  - Linkedin: https://www.linkedin.com/in/leonardo-josephson/
+---
 
+### 📫 How to reach me
 
+- Email: leonardojosephson24@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/leonardo-josephson/
